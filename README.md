@@ -7,10 +7,10 @@ This was made as a demo for real world company
 -[Company Brand](http://monexcyprus.com/)
 
 
-![front](/sreenshots/capture1.JPG?raw=true "Optional Title")
-![menu](/sreenshots/capture2.JPG?raw=true "Optional Title")
-![enter amount](/sreenshots/capture3.JPG?raw=true "Optional Title")
-![select currency](/sreenshots/capture4.JPG?raw=true "Optional Title")
+![front](/sreenshots/capture1.JPG "Optional Title")
+![menu](/sreenshots/capture2.JPG "Optional Title")
+![enter amount](/sreenshots/capture3.JPG "Optional Title")
+![select currency](/sreenshots/capture4.JPG "Optional Title")
 
 
 
